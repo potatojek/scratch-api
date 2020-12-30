@@ -1,6 +1,6 @@
 # scratch-api
 
-A utility for interacting with the Scratch 2.0 website.
+A utility for interacting with the Scratch 3.0 website.
 
 ## Installation
 
